@@ -1,2 +1,4 @@
 mountpoints:
-  /: https://cms.demodesign.hitthecode.com/api/eds
+  /:
+     url: https://cms.demodesign.hitthecode.com/api/eds
+     type: "markup"
